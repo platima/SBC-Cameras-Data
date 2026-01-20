@@ -3,10 +3,13 @@
 ## Cameras
 | Camera                          | Pins    | Cable          | Sensor      | Pixels | FOV D     | URL |
 |---------------------------------|---------|----------------|-------------|--------|-----------|-----|
-| Radxa Camera 4K                 | 31p0.3  | 31-31 150mm    | IMX415      | 8.29MP | 88.2±5°   | |
+| Radxa Camera 4K                 | 31p0.3  | 31-31 150mm    | IMX415      | 8.29MP | 88.2±5°   | [](https://radxa.com/products/accessories/camera4k/) |
+| Waveshare IMX415                |         | various        | IMX415      | 8.29MP | 98°       | [IMX415-98 IR-CUT Camera](https://www.waveshare.com/imx415-98-ir-cut-camera.htm) |
+| Thinkcore IMX415                |         |                | IMX415      | 8.29MP |           | [Thinkcore store](https://www.aliexpress.com/store/1102767569/pages/all-items.html) |
+| Khadas IMX415                   | 30p0.5  |                | IMX415      | 8.29MP | 90°       | [IMX415 Camera](https://www.khadas.com/product-page/imx415-camera) |
 | GC4653 for LicheeRV             | 24p0.5  | 24-22 30mm     | GC4653      | 4MP    |           | [gc4653-camera-for-licheerv-nano](https://shop.plati.ma/products/gc4653-camera-module-for-licheerv-nano) |
-| Pi Global Shutter Camera        | 22p0.5? |                | IMX296LQR-C | 1.58MP |           | |
-| Arducam 64MP                    | 22p0.5  | 22-15 150mm    | OV64A40     | 64MP   | 84°       | |
+| Pi Global Shutter Camera        | 22p0.5? |                | IMX296LQR-C | 1.58MP |           | [lobal Shutter Camera](https://www.raspberrypi.com/products/raspberry-pi-global-shutter-camera/) |
+| Arducam 64MP                    | 22p0.5  | 22-15 150mm    | OV64A40     | 64MP   | 84°       | [64MP PDAF&CDAF Autofocus](https://www.arducam.com/64mp-af-for-raspberry-pi.html) |
 | SC3336 3MP Camera (B)           | 20p0.5  | 20-20 150mm    | SC3336      | 3MP    | 98.3°     | [luckfox-sc3336-3mp-camera-b](https://shop.plati.ma/products/luckfox-sc3336-3mp-camera-b) |
 | Milk-V CAM-GC2083               | 16p0.5  | 16-16 80mm x2  | GC2083      | 2MP    |           | [cam-gc2083-for-milk-v-duo](https://shop.plati.ma/products/cam-gc2083-for-milk-v-duo) |
 | Radxa Camera 8M 219             | 15p1    | 15-22 150mm    | IMX219      | 8MP    |           | [radxa-cam-219](https://shop.plati.ma/products/radxa-camera-219-8mp-meant-for-zero-3e-3w)|
@@ -18,7 +21,8 @@
 ## SBCs
 | SBC             | Pins   | CSI Lanes | URL |
 |-----------------|--------|-----------|-----|
-| Radxa Rock 5    | 31p0.3 | 4         | |
+| Radxa Rock 5    | 31p0.3 | 4         | [Rock 5 series](https://radxa.com/products/rock5) |
+| Waveshare C 3576|        |           | [Omni3576-RK3576](https://www.waveshare.com/product/luckfox/boards-modules/core3576.htm) |
 | Orange Pi 5B    | 30p0.4 | 3x 4      | |
 | LicheeRV Nano   | 22     | 1x 4      |
 | Radxa Zero 3W/E | 22p0.5 | 4         | |
